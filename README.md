@@ -8,4 +8,4 @@
 
 
 ## Sharpe Ratio Plot
-[Sharpe Ratio Plot](plot.png)
+![Sharpe Ratio Plot](https://github.com/sarthaka2018/Portfolio-Optimisation/blob/main/plot.png)
